@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/madhusudhan123-star/own-npm-/issues"
   },
-  "homepage": "https://github.com/madhusudhan123-star/own-npm-#readme"
+  "homepage": "https://github.com/madhusudhan123-star/own-npm-#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
